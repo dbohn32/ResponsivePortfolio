@@ -1,0 +1,35 @@
+#db{
+    background-color: teal;
+    color: white;
+}
+#navbar1{
+    padding-inline-start: 70%;
+}
+body{
+    background-color: lightgrey;
+}
+h1{
+    color: teal;
+}
+#container{
+    width: 70%;
+    margin-left: 10pc;
+    background-color: white;
+    padding-bottom: 10pc;
+    margin-top: 40px;
+}
+footer{
+    color: teal;
+    text-align: center;
+}
+#card{
+        background-color: rgb(100, 100, 100);
+         margin-bottom: 5pc;
+         margin-top: 5pc;
+    }
+    @media screen and (max-width: 768px) {
+        
+        .wrapper {
+          width: 800px;
+        }
+    }

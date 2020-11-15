@@ -1,0 +1,30 @@
+#db{
+    background-color: teal;
+    color: white;
+}
+#navbar1{
+    padding-inline-start: 70%;
+}
+body{
+    background-color: lightgrey;
+}
+h1{
+    color: teal;
+}
+#container{
+    width: 50%;
+    margin-left: 10pc;
+    background-color: white;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+#button{
+    background-color: teal;
+}
+footer{
+    color: teal;
+    text-align: center;
+}
+#card{
+    background-color: rgb(100, 100, 100);
+}

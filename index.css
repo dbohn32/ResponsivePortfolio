@@ -1,0 +1,49 @@
+#db{
+    background-color: teal;
+    color: white;
+}
+#navbar1{
+    padding-inline-start: 75%;
+}
+#border{
+    border-color: turquoise;
+    border: solid;
+    border-width: 5px;
+    border-bottom: solid;
+}
+
+
+body{
+    background-color: lightgrey;
+}
+h1{
+    color: darkcyan;
+}
+#container{
+    width: 50%;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    padding-inline-start: 20px;
+    background-color: white;
+    color: darkblue;
+}
+footer{
+    height: 10px;
+    background-color: darkcyan;
+    color: lightgray;
+    text-align: center;
+}
+#card{
+    background-color: darkgray;
+}
+
+@media (min-width: 576px) { }
+
+
+@media (min-width: 768px) {  }
+
+@media (min-width: 992px) {  }
+
+
+@media (min-width: 1200px) { }
