@@ -2,17 +2,12 @@
     background-color: teal;
     color: white;
 }
-#navbar1{
-    padding-inline-start: 80%;
-}
 #border{
     border-color: turquoise;
     border: solid;
     border-width: 5px;
     border-bottom: solid;
 }
-
-
 body{
     background-color: lightgrey;
 }
@@ -29,21 +24,8 @@ h1{
     color: darkblue;
 }
 footer{
-    height: 10px;
+    height: 30px;
     background-color: darkcyan;
     color: lightgray;
     text-align: center;
 }
-#card{
-    background-color: darkgray;
-}
-
-@media (min-width: 576px) { }
-
-
-@media (min-width: 768px) {  }
-
-@media (min-width: 992px) {  }
-
-
-@media (min-width: 1200px) { }

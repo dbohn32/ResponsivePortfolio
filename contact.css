@@ -12,8 +12,8 @@ h1{
     color: teal;
 }
 #container{
-    width: 50%;
-    margin-left: 10pc;
+    width: 60%;
+    margin-left: 5pc;
     background-color: white;
     padding-bottom: 10px;
     margin-bottom: 30px;
@@ -24,7 +24,4 @@ h1{
 footer{
     color: teal;
     text-align: center;
-}
-#card{
-    background-color: rgb(100, 100, 100);
 }
